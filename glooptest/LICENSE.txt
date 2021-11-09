@@ -1,0 +1,2 @@
+code: wsor4035(aka wsor) MIT
+textures: GloopMaster cc-by-sa 3.0
